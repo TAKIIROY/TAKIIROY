@@ -1,16 +1,13 @@
-## Hi there 👋
+# TAKIIROY / 瀧井ロイ
 
-<!--
-**TAKIIROY/TAKIIROY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity solo dev × VRChat particle maker × DTM × illustration.
+Making a juicy idle game for Steam. Pink is the whole personality.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Idle game** (Unity, Steam TBA) — juicy numbers, pink explosions, satisfying loops
+- **VRChat particle & skybox packs** — on [BOOTH](https://takiiroy.booth.pm/)
+- **Original BGM & SFX** — for my own projects
+- **Illustrations & video** — brand assets and shorts
+
+## Find me
